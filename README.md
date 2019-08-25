@@ -16,7 +16,7 @@ What's bad:
 - full of hacks
 - lack of error handling in many cases
 - lack of logging
-- not well-thought 
+- not well-thought out
 - probably over-complicated
 
 But still good for demonstration of Keyword-driven / Hybrid test frameworks and their (dis)-advantages.
